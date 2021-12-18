@@ -1,0 +1,6 @@
+C:\Users\Liam Sawyer\Downloads\BLE_Proximity\BLE_Proximity\BLE_Proximity.cydsn\BLE_Proximity.cyprj|e86f22cc-703f-42a6-84c4-83acde9b0e9e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|220613dc-b7f5-47ab-b116-c2126992a7a7
+C:\Users\Liam Sawyer\OneDrive\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|d42bdf99-253b-4736-988a-5abe5f83d4ad
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|c42aae20-2ea6-425b-90d1-b807821f89df
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|e80990ee-6fa3-44c8-9619-d52a9ae575be
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|35fba9a6-6309-4e39-b5ee-ec2dd1e201aa

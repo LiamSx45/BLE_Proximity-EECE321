@@ -1,0 +1,12 @@
+--------------- Build Started: 12/18/2021 16:56:41 Project: BLE_Proximity, Configuration: ARM GCC 5.4-2016-q2-update Debug ---------------
+cydsfit.exe -.appdatapath "C:\Users\Liam Sawyer\AppData\Local\Cypress Semiconductor\PSoC Creator\4.4" -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -.fdsreffile=referenced_files.txt -p "C:\Users\Liam Sawyer\Downloads\BLE_Proximity\BLE_Proximity\BLE_Proximity.cydsn\BLE_Proximity.cyprj" -d CY8C4247LQI-BL483 -s "C:\Users\Liam Sawyer\Downloads\BLE_Proximity\BLE_Proximity\BLE_Proximity.cydsn\Generated_Source\PSoC4" -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE
+Elaborating Design...
+ADD: sdb.M0033: error: The instance 'UART_DEB', of component SCB_P4_v2_0, contains an error. Unable to locate and customize component 'SCB_P4_v2_0' used in schematic 'C:\Users\Liam Sawyer\Downloads\BLE_Proximity\BLE_Proximity\BLE_Proximity.cydsn\TopDesign\TopDesign.cysch'.
+ *  (Component Update Tool)
+ * C:\Users\Liam Sawyer\Downloads\BLE_Proximity\BLE_Proximity\BLE_Proximity.cydsn\TopDesign\TopDesign.cysch (Instance:UART_DEB)
+ADD: sdb.M0033: error: The instance 'CYBLE', of component BLE_v1_20, contains an error. Unable to locate and customize component 'BLE_v1_20' used in schematic 'C:\Users\Liam Sawyer\Downloads\BLE_Proximity\BLE_Proximity\BLE_Proximity.cydsn\TopDesign\TopDesign.cysch'.
+ *  (Component Update Tool)
+ * C:\Users\Liam Sawyer\Downloads\BLE_Proximity\BLE_Proximity\BLE_Proximity.cydsn\TopDesign\TopDesign.cysch (Instance:CYBLE)
+ADD: sdb.M0059: error: Error in component: cy_boot. The cy_boot_v4_20 component (cy_boot) is not compatible with the selected device. Please check the component datasheet for details on updating to a compatible component.
+Error: fit.M0050: The fitter aborted due to errors, please address all errors and rebuild. (App=cydsfit)
+--------------- Build Failed: 12/18/2021 16:56:46 ---------------
